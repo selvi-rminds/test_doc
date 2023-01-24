@@ -1,4 +1,6 @@
 title: Test DOC
+markdown: karmdown
+theme: minima
 plugins:
   - jekyll-seo-tag
   - jekyll-relative-links
