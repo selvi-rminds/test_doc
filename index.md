@@ -3,6 +3,6 @@ isBookIndex: true
 ---
 # Testing the Documentation Management
 
-* [RMinds]("https://www.rminds.com")
+* [Introduction]("/testfile.md")
 
 Checking the documentation for the KVP
