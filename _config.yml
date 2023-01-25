@@ -1,6 +1,7 @@
 title: Test DOC
 markdown: karmdown
 theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-seo-tag
   - jekyll-relative-links
@@ -8,6 +9,7 @@ plugins:
   - jekyll-default-layout
   - jekyll-titles-from-headings
   - jekyll-readme-index
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 defaults:
   -
     scope:
